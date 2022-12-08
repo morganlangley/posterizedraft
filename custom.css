@@ -1,0 +1,23 @@
+  body{
+    background-color: #f4eee6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color: #4b5b6b;
+  }
+  .nav-link{
+    color: black;
+   }
+  .card-body{
+    background-color: #f4eee6;
+  }
+  .card-text{
+    font-size: large;
+  }
+.btn{
+  color: #4b5b6b;
+}
+.image-fluid{
+    display: block;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 20%;
+  }
